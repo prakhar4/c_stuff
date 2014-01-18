@@ -1,0 +1,4 @@
+hello guys this is a input file/
+named as inp.txt/
+and is meant to be fed as input/
+to the simple program as for checking/
